@@ -1,0 +1,13 @@
+{
+  "sequence": 60,
+  "template name": "Loading a Grid",
+  "description": "Displaying information in grids is fundamental to developing applications. This demo application displays a list of products in a grid.",
+  "image": "/cloud/template-icons/node_js_grid.png",
+  "routes": {},
+  "app start": "app.js",
+  "template dir": "loading-a-grid",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ]
+}
